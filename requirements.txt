@@ -1,0 +1,17 @@
+transformers>=4.45.1
+accelerate
+beautifulsoup4
+langchain
+langchain-chroma
+langchain-community
+langchain-core
+langchain-groq
+langchain-text-splitters
+llama-index-embeddings-huggingface
+gradio
+llama-index-llms-langchain
+llama-index-embeddings-langchain
+llama-index-llms-fireworks
+llama-index-llms-groq
+llama-index
+langchain-huggingface
